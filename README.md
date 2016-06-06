@@ -2,6 +2,8 @@
 
 [![Build Status](https://img.shields.io/travis/cakephp/app/master.svg?style=flat-square)](https://travis-ci.org/cakephp/app)
 [![License](https://img.shields.io/packagist/l/cakephp/app.svg?style=flat-square)](https://packagist.org/packages/cakephp/app)
+[![codecov](https://codecov.io/gh/bigbello/negozio/branch/master/graph/badge.svg)](https://codecov.io/gh/bigbello/negozio)
+[![Coverage Status](https://coveralls.io/repos/bitbucket/bigbello/negozio/badge.svg?branch=master)](https://coveralls.io/bitbucket/bigbello/negozio?branch=master)
 
 A skeleton for creating applications with [CakePHP](http://cakephp.org) 3.x.
 
