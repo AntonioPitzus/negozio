@@ -59,7 +59,7 @@ class CustomersControllerTest extends IntegrationTestCase
      */
     public function testAdd()
     {
-        $this->markTestIncomplete('Not implemented yet.');
+        $this->assertEquals(1, 2);
     }
 
     /**
